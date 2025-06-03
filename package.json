@@ -4,7 +4,8 @@
   "description": "portfolio website ",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/PRIYA2508/Portfolio-/issues"
   },
-  "homepage": "https://github.com/PRIYA2508/Portfolio-#readme"
+  "homepage": "https://github.com/PRIYA2508/Portfolio-#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
 }
