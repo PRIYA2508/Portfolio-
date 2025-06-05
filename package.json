@@ -1,27 +1,22 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "portfolio website ",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "parcel index.html"
+    "start": "parcel index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PRIYA2508/Portfolio-.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PRIYA2508/Portfolio-/issues"
-  },
-  "homepage": "https://github.com/PRIYA2508/Portfolio-#readme",
+  "description": "",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "parcel": "^2.15.2"
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
   }
 }
