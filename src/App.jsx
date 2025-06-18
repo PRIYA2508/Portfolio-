@@ -1,7 +1,7 @@
 function App() { 
   return (
     <div>
-      hello
+      cheery ls strawbeery and vice-versa.
     </div>
   )
 }
